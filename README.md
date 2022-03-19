@@ -1,6 +1,6 @@
-# LTSpice Quick Start Guide (macOS)
+# LTspice Quick Start Guide (macOS)
 
-本文首次发布 URL：[https://github.com/h0gan1ee/ltspice-quick-start-guide-macos/blob/main/README.md](https://github.com/h0gan1ee/ltspice-quick-start-guide-macos/blob/main/README.md)
+> 本文首次发布 URL：[https://github.com/h0gan1ee/ltspice-quick-start-guide-macos/blob/main/README.md](https://github.com/h0gan1ee/ltspice-quick-start-guide-macos/blob/main/README.md)
 
 ## 下载与安装
 
