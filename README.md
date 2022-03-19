@@ -4,7 +4,7 @@
 
 官网下载地址：[https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 
-![](/assets/1.png)
+<img src="/assets/1.png" width="600">
 
 下载完毕后得到一个 `.pkg` 格式的安装包，打开按指引安装即可。
 
@@ -18,7 +18,7 @@
 
 右键点击空白处即可调用出工具菜单。（这一点与 Windows 不同）
 
-![](/assets/2.png)
+<img src="/assets/2.png" width="600">
 
 点击 `View -> Grid Dots` 开启网格点视图。
 
@@ -87,8 +87,8 @@ LTspice 的右键功能非常强大，如果要修改某个东西，往往可以
 
 这是其中一种方便放在实验报告中的配色方案：
 
-![](/assets/3.png)
-![](/assets/4.png)
+<img src="/assets/3.png" width="600">
+<img src="/assets/4.png" width="600">
 
 在 `Operation -> Model Update` 中可更新模型，在更新过程中**请不要操作软件**。
 
@@ -125,4 +125,4 @@ LTspice 的右键功能非常强大，如果要修改某个东西，往往可以
 
 在 `系统偏好设置` 中可以将 `F1`、`F2` 这些功能键设置为首选键（即反转 `fn` 作用这些按键的效果）。
 
-![](/assets/5.png)
+<img src="/assets/5.png" width="600">
